@@ -1,2 +1,2 @@
-# OUA-AI finance app
-Finance AI app made for OUA app jam 2024
+# OUA-AI travel app
+travel AI app made for OUA app jam 2024
